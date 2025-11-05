@@ -6,19 +6,21 @@
 ---
 
 ## 🧠 Tecnologías que manejo
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  ![SQL](https://img.shields.io/badge/SQL-00758F?logo=mysql&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) 
 
 ---
 
 ## 📫 Contacto
 
 📍 Valencia, España  
-🔗 [Mi perfil de GitHub](https://github.com/tuusuario)  
+🔗 RodrigoMM-555([https://github.com/tuusuario](https://github.com/RodrigoMM-555))  
+
+---
+
+## Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Valentindg2506&show_icons=true&count_private=true&theme=radical)  
 
 ---
 
