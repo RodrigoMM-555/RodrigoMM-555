@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy [Tu Nombre]!
+# 👋 ¡Hola, soy Rodrigo Menéndez Molina!
 
 🎓 Estudiante del **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en **CEACFP Valencia**.  
 💻 Apasionado por la programacion, tecnología y el aprender mas sobre la industria.
