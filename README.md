@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 ¡Hola, soy [Tu Nombre]!
 
-<!--
-**RodrigoMM-555/RodrigoMM-555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante del **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en **CEACFP Valencia**.  
+💻 Apasionado por la programacion, tecnología y el aprender mas sobre la industria.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologías que manejo
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
+</div>
+
+---
+
+## 📫 Contacto
+
+📍 Valencia, España  
+🔗 [Mi perfil de GitHub](https://github.com/tuusuario)  
+
+---
+
+⭐ _Gracias por visitar mi perfil._
