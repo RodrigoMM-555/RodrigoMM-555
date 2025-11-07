@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Rodrigo Menéndez Molina! 🐧
+# 🐧 ¡Buenas, soy Rodrigo Menéndez Molina! 🐧
 
 🎓 Estudiante del **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en **CEACFP Valencia**.  
 💻 Programador desde pequeño, apassionado por tecnología y buscando aprender más sobre la industria.
@@ -20,7 +20,7 @@
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RodrigoMM-555&show_icons=true&count_private=true&theme=radical)  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RodrigoMM-555&show_icons=true&count_private=true&theme=tokyonight)  
 
 ---
 🛠️ _Perfil en progreso_
