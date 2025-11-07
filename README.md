@@ -20,7 +20,7 @@
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Valentindg2506&show_icons=true&count_private=true&theme=radical)  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RodrigoMM-555&show_icons=true&count_private=true&theme=radical)  
 
 ---
 🛠️ _Perfil en progreso_
