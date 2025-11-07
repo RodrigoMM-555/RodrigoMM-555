@@ -1,3 +1,4 @@
+<img src="./imagenes/Banner.png" atl="Banner">  
 <h1 align=center> 🐧 ¡Buenas, soy Rodrigo Menéndez Molina! 🐧 </h1>
 
 🎓 Estudiante del **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en **CEACFP Valencia**.  
