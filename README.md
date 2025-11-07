@@ -1,5 +1,5 @@
 <img src="./imagenes/Banner.png" atl="Banner">  
-<h1 align=center> 🐧 ¡Buenas, soy Rodrigo Menéndez Molina! 🐧 </h1>
+<h1 align=center> 👋 ¡Buenas, soy Rodrigo Menéndez Molina! 🤝 </h1>
 
 🎓 Estudiante del **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en **CEACFP Valencia**.  
 💻 Programador desde niño, apassionado por la informatica e interesado en aprender más sobre la industria.
