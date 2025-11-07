@@ -23,5 +23,6 @@
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Valentindg2506&show_icons=true&count_private=true&theme=radical)  
 
 ---
-🛠️ _Perfil en prograso_
+🛠️ _Perfil en progreso_
+
 ⭐ _Gracias por visitar mi perfil._
