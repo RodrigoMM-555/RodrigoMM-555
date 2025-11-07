@@ -21,11 +21,6 @@
 ## Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RodrigoMM-555&show_icons=true&count_private=true&theme=tokyonight)  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RodrigoMM-555&show_icons=true&count_private=true&theme=radical)  
-https://github-readme-stats.vercel.app/api?username=RodrigoMM-555&show_icons=true&hide=prs,stars&theme=radical
-https://github-readme-stats.vercel.app/api?username=RodrigoMM-555&show_icons=true&include_all_commits=true&hide_rank=true&theme=radical
-
-
 
 ---
 🛠️ _Perfil en progreso_
