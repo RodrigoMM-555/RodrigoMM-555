@@ -24,7 +24,7 @@
 
 📍 Valencia, España
 
-✉️ menendez.rodrigo555@gmail.com 
+✉️ Correo electronico menendez.rodrigo555@gmail.com 
 
 🔗 RodrigoMM-555([https://github.com/tuusuario](https://github.com/RodrigoMM-555))  
 
