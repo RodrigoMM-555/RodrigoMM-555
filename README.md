@@ -28,6 +28,8 @@
 
 🔗 RodrigoMM-555 [https://github.com/tuusuario](https://github.com/RodrigoMM-555)  
 
+🔗 Linkedin
+
 ---
 
 ## 📊Estadísticas de GitHub
