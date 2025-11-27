@@ -5,12 +5,11 @@
 <h1 align=center>  RodrigoMM-555 · Rodrigo Menéndez Molina  </h1>
 <div align=center>
   <p>🎓 Estudiante del <b>Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)</b> en <b>CEACFP Valencia</b>. 🎓</p>  
-  <p>💻 Programador, apassionado por la informatica e interesado en aprender más sobre la industria. 💻</p>
 </div>
 
 ---
 
-## 🧠 Tecnologías que manejo
+## 💻 Tecnologías que manejo
 <div align=center>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="70em">  
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="70em">
