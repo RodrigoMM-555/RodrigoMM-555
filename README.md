@@ -34,7 +34,6 @@
 ## 📊Estadísticas de GitHub
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RodrigoMM-555&theme=tokyonight" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RodrigoMM-555&theme=tokyonight" height="150"/>
 </p>
 ---
 
