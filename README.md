@@ -27,7 +27,11 @@
 
 🔗 RodrigoMM-555 [https://github.com/tuusuario](https://github.com/RodrigoMM-555)  
 
-🔗 Linkedin
+🔗 Linkedin [https://www.linkedin.com/feed/](https://www.linkedin.com/in/rodrigo-men%C3%A9ndez-molina-ba310a3a0/)
+
+🔗 Curriculum https://rodrigomm-555.github.io/Curriculum/
+
+🔗 Portafolio (Desactualizado) https://rodrigomm-555.github.io/Portafolio/
 
 ---
 
